@@ -27,4 +27,4 @@ After those are printed, you can plan out where you want to route cables (I recc
 
 This is for securing the computer to the underside of the desk. Note: This may not work for all computers based on the spacing of the power cords and such. Prop up the computer high enough above the ground (using books) that the desk frame touches it when you lower the standing desk. Next, wrap the webbing around the computer and slide it into the small groove seperating the desktop and the frame. Cut the webbing a little long, and then thread it into the clips included with the webbing. Do this again for the other side (just compare the legnths and cut it the same) and then adjust the clips until they just barely fit (you want it tight so that it doesn't fall off). Wrap the reamining webbing around the desk leg, attach another clip, and secure the computer to the frame.  
 
-Have fun with your new desk! Add any cable management you need and whatever else to make it yours.
+Have fun with your new desk! Add any cable management you need and whatever else to make it yours. I added 2 speakers, an ikea pegboard, 3 28" monitors @70ish hz, and a mic arm. 
